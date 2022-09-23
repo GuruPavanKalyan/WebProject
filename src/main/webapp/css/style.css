@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body{
+	background-color:powderblue;
+}
+form {
+	text-align: center;
+	
+}
+.wel{
+	text-align: center;
+}
+
+h2{
+   margin: auto;
+   text-align:center;
+   width: 300px;
+   background: orange;
+}
+#Welcome {
+    margin: 50px auto;
+    width: 300px;
+    background-color: green;
+}
